@@ -1,0 +1,24 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r # COMP2156\r # COMP2156\r =======\r  #### COMP2156 – Developer Operations\r >>>>>>> 7be5d66 (README.md File edited)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshSimand/COMP2156.git"
+  },
+  "keywords": [],
+  "author": "Josh Simand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshSimand/COMP2156/issues"
+  },
+  "homepage": "https://github.com/JoshSimand/COMP2156#readme"
+}
+ 
